@@ -49,13 +49,26 @@
 		{
 			"type":1,
 			"title":"Alpine Linux",
-			"description":"Alpine Linux is built around musl libc and busybox",
+			"description":"Alpine Linux is built around musl libc and busybox.",
 			"categories":[
 				"operating-system"
 			],
 			"platform":"linux",
 			"logo":"https://d1q6f0aelx0por.cloudfront.net/product-logos/library-alpine-logo.png",
 			"image":"alpine:latest",
+			"interactive":true,
+			"command":"/bin/bash"
+		},
+		{
+			"type":1,
+			"title":"CentOS",
+			"description":"CentOS is a Linux distribution that provides a free and open-source community-supported computing platform, functionally compatible with its upstream source, Red Hat Enterprise Linux.",
+			"categories":[
+				"operating-system"
+			],
+			"platform":"linux",
+			"logo":"https://d1q6f0aelx0por.cloudfront.net/product-logos/library-centos-logo.png",
+			"image":"centos:latest",
 			"interactive":true,
 			"command":"/bin/bash"
 		},
