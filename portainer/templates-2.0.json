@@ -22,6 +22,19 @@
 		},
 		{
 			"type":1,
+			"title":"Debian",
+			"description":"Debian is a Linux distribution that's composed entirely of free and open-source software.",
+			"categories":[
+				"operating-system"
+			],
+			"platform":"linux",
+			"logo":"https://d1q6f0aelx0por.cloudfront.net/product-logos/library-debian-logo.png",
+			"image":"debian:latest",
+			"interactive":true,
+			"command":"/bin/bash"
+		},
+        {
+			"type":1,
 			"title":"Ubuntu",
 			"description":"Debian-based Linux operating system",
 			"categories":[
