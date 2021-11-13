@@ -35,6 +35,19 @@
 		},
 		{
 			"type":1,
+			"title":"Alpine Linux",
+			"description":"Alpine Linux is built around musl libc and busybox",
+			"categories":[
+				"operating-system"
+			],
+			"platform":"linux",
+			"logo":"https://d1q6f0aelx0por.cloudfront.net/product-logos/library-alpine-logo.png",
+			"image":"alpine:latest",
+			"interactive":true,
+			"command":"/bin/bash"
+		},
+		{
+			"type":1,
 			"title":"NodeJS",
 			"description":"JavaScript-based platform for server-side and networking applications",
 			"categories":[
