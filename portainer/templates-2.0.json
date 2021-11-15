@@ -4895,7 +4895,7 @@
 				}
 			],
 			"image": "pducharme/unifi-video-controller:latest",
-			"logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/UniFiVideo-logo.png",
+			"logo": "https://cdn.barcodesinc.com/images/models/md/Ubiquiti-Networks/unifi-video.jpg",
 			"name": "UniFi Video",
 			"platform": "linux",
 			"ports": [
@@ -5047,7 +5047,7 @@
 			],
 			"description": "Dradis Framework: Collaboration and reporting for IT Security teams http://dradisframework.org",
 			"image": "raesene/dradis:latest",
-			"logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/dradis-logo.png",
+			"logo": "https://dradisframework.com/blog/wp-content/uploads/2020/11/logo_fusion.png",
 			"name": "dradis",
 			"platform": "linux",
 			"ports": [
