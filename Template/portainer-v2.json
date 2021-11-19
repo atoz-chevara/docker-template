@@ -48,6 +48,19 @@
 		},
 		{
 			"type":1,
+			"title":"TurnKey Core",
+			"description":"TurnKey Core is the base operating system which all TurnKey GNU/Linux solutions share in common.",
+			"categories":[
+				"operating-system"
+			],
+			"platform":"linux",
+			"logo":"https://raw.githubusercontent.com/atoz-chevara/docker-template/main/Images/turnkeylinux_core.jpg",
+			"image":"turnkeylinux/core:latest",
+			"interactive":true,
+			"command":"/bin/bash"
+		},
+		{
+			"type":1,
 			"title":"Alpine Linux",
 			"description":"Alpine Linux is built around musl libc and busybox.",
 			"categories":[
